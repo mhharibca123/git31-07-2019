@@ -2,3 +2,4 @@ aws<region>
 aws<vpc>
 aws<subnet>
 aws<elasticip>
+aws<hostid>
