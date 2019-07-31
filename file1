@@ -1,3 +1,4 @@
 aws<region> 
 aws<vpc>
 aws<subnet>
+aws<elasticip>
